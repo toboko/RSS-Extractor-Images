@@ -36,7 +36,7 @@
                             <strong>
                                 <a href=" '.$link.' " title=" '.$title.' ">'.$title.'</a>
                             </strong>
-                            <br/>
+                        </p>
                     </div>
                 </div>';
     }
